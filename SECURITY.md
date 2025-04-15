@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-In this project, the following versions have undergone security vulnerability assessments:
+In this project, the following versions have undergone security vulnerability assessments: 
 
 | Version | Supported          |
 | ------- | ------------------ |
