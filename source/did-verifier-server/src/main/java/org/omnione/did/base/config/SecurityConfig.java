@@ -53,7 +53,6 @@ public class SecurityConfig {
             throws Exception {
 
         return httpSecurity
-                .csrf(AbstractHttpConfigurer::disable)
                 .httpBasic(AbstractHttpConfigurer::disable)
                 .formLogin(AbstractHttpConfigurer::disable)
                 .logout(AbstractHttpConfigurer::disable)
